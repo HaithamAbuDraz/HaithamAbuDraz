@@ -1,5 +1,5 @@
-## Hi there 👋
-Hi, I'm Haitham Mohammed Abu Draz, a Software Engineer with a passion for solving real-world problems through technology.
+## Hi there, I'm Haitham Mohammed Abu Draz👋
+Welcome to my GitHub profile! I'm a Software Engineer with a passion for solving real-world problems through technology.
 I am dedicated to continuously improving my skills in both software development and practical applications.
 I enjoy coding in various languages and technologies, and I’m always excited to take on new challenges that push me to grow and learn more.
 
