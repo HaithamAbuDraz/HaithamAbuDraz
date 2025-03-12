@@ -4,7 +4,7 @@ I am dedicated to continuously improving my skills in both software development 
 I enjoy coding in various languages and technologies, and I’m always excited to take on new challenges that push me to grow and learn more.
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, Java, React, HTML, CSS
+- **Languages:** Python, Java, HTML, CSS, JavaScript, React
 - **Tools:** Visual Studio Code, NetBeans, sql server management studio
 - **Databases:** MySQL
 
